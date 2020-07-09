@@ -7,7 +7,7 @@
     align-items: center;
     text-align: center;
     background: linear-gradient(to right, black, transparent),
-    url("/img/web-design.jpg");
+    url("../img/web-design.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -312,7 +312,7 @@ h2::after {
 }
 
 .bus {
-    background-image: url("/img/bus.jpeg");
+    background-image: url("../img/bus.jpeg");
     height: auto;
     width: 121.16px;
     height: 45.11px;
@@ -320,21 +320,21 @@ h2::after {
 }
 
 .crane {
-    background-image: url("/img/crane.jpeg");
+    background-image: url("../img/crane.jpeg");
     height: 45.11px;
     width: 184.95px;
     position: relative;
 }
 
 .beat {
-background-image: url("/img/beat.jpeg");
+background-image: url("../img/beat.jpeg");
     height: 46.39px;
     width: 45.09px;
     position: relative;
 }
 
 .northern {
-background-image: url("/img/nd.jpeg");
+background-image: url("../img/nd.jpeg");
     height: 45.09px;
     width: 207.5px;
     position: relative;
@@ -447,31 +447,31 @@ background-image: url("/img/nd.jpeg");
 }
 
 .google {
-    background-image: url(/img/google-partner.png);
+    background-image: url(../img/google-partner.png);
     width: 220px;
     height: 82px;
 }
 
 .micro {
-    background-image: url(/img/Micro.jpeg);
+    background-image: url(../img/Micro.jpeg);
     width: 127.56px;
     height: 53.3px;
 }
 
 .f-50 {
-    background-image: url(/img/f50.jpeg);
+    background-image: url(../img/f50.jpeg);
     width: 73.5px;
     height: 52.38px;
 }
 
 .qms {
-    background-image: url(/img/qms.jpeg);
+    background-image: url(../img/qms.jpeg);
     width: 85.69px;
     height: 53.3px;
 }
 
 .carbon {
-    background-image: url(/img/carbon.jpeg);
+    background-image: url(../img/carbon.jpeg);
     width: 173.25px;
     height: 53.3px;
 }
